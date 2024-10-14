@@ -1,0 +1,1 @@
+GCP Cloud Storage Management provide very good access management system and it closely integrated with Google Identity Management system, allowing us to easily control to our storage resources. It also provide many tools to automates the file management.
